@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1c1c1c;
+}
+
+.movie-container {
+    width: 100%;
+    min-height: 100vh;
+    padding: 30px 50px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 25px;
+    background-color: #111;
+}
+
+
+.search-movie-card {
+    background-color: #252525;
+    border-radius: 12px;
+    overflow: hidden;
+    height: 350px;
+    transition: 0.3s;
+}
+
+
+.search-movie-card:hover {
+    transform: scale(1.05);
+}
+
+
+.search-movie-card-img-top {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+}
+
+
+.search-movie-card h3 {
+    color: white;
+    font-size: 16px;
+    padding: 12px;
+    margin: 0;
+    text-align: center;
+}
