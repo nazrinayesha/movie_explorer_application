@@ -14,7 +14,8 @@ movies and view movie information using the TMDB API.
 ## Tech Stack
 
 -   React.js
--   JavaScript
+-   JavaScript(ES6+)
+-   Axios
 -   HTML5
 -   CSS3
 -   TMDB API
