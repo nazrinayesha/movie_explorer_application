@@ -20,54 +20,20 @@ movies and view movie information using the TMDB API.
 -   CSS3
 -   TMDB API
 
-## Installation
 
-Clone the repository:
+## 📸 Project Screenshot
 
-``` bash
+### homePage
+![homePage](screenshots./homePage.png)
+
+
+## 📦 Installation (Run Locally)
+
+```bash
 git clone https://github.com/nazrinayesha/movie_explorer_application.git
-```
-
-Go to the project folder:
-
-``` bash
-cd movie_explorer_application
-```
-
-Install dependencies:
-
-``` bash
+cd product-listing-app
 npm install
-```
+npm run dev
 
-Run the application:
 
-``` bash
-npm start
-```
-
-The app will run on:
-
-    http://localhost:5173
-
-## Project Screenshot
-
-Add your screenshot here:
-
-``` markdown
-![Movie Search App Screenshot](./homePage.png)
-```
-
-## API
-
-This project uses:
-
-TMDB API\
-https://www.themoviedb.org/
-
-## Author
-
-Nazrin Ayesha
-
-GitHub: https://github.com/nazrinayesha
 
