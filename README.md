@@ -47,7 +47,7 @@ npm start
 
 The app will run on:
 
-    http://localhost:3000
+    http://localhost:5173
 
 ## Project Screenshot
 
